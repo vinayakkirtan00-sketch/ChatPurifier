@@ -1,0 +1,18 @@
+# ChatPurifier Configuration File
+
+# List of banned or bad words
+badwords:
+  - idiot
+  - noob
+  - stupid
+  - badword1
+  - badword2
+
+# Word replacement text
+replacement: "***"
+
+# Message shown to player if they use bad words
+warning-message: "§cPlease avoid using bad words in the chat!"
+
+# Message shown when plugin loads
+startup-message: "ChatPurifier active! Keeping your chat clean."
