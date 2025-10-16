@@ -1,0 +1,32 @@
+--- # Poggit-CI Manifest for ChatPurifier
+# Poggit build link: https://poggit.pmmp.io/ci/vinayakkirtan00-sketch/ChatPurifier
+
+build-by-default: true
+branches:
+  - main
+
+projects:
+  ChatPurifier:
+    path: ""
+    type: plugin
+    icon: "icon.png"
+    apis:
+      - 5.0.0
+    php:
+      - 8.1
+      - 8.2
+    description: >
+      ChatPurifier automatically filters and replaces bad words in chat, sending warning messages to players and keeping your PocketMine-MP server friendly and clean.
+    tags:
+      - Chat
+      - Filter
+      - AntiSwear
+      - PocketMine
+      - PMMP
+      - CleanChat
+      - ChatPurifier
+    releases:
+      - version: 1.0.0
+        state: stable
+        description: Initial release of ChatPurifier — a lightweight chat filter with player warning system.
+...
