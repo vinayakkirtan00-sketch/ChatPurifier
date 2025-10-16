@@ -14,7 +14,7 @@
 
 ## 📦 Installation
 1. Download the latest **ChatPurifier.phar** from Poggit:  
-   👉 [Poggit Build Page](https://poggit.pmmp.io/ci/vinayakkirtan00-sketch/ChatPurifier)
+   👉 [Plugin Download Page](https://poggit.pmmp.io/p/ChatPurifier/1.0.0#)
 
 2. Place the file into your server’s `/plugins` folder  
 3. Restart the server  
@@ -24,7 +24,6 @@
 
 ## ⚙️ Configuration Example (`config.yml`)
 ```yaml
-badwords:
   - idiot
   - stupid
   - badword1
