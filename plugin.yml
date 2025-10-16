@@ -1,0 +1,6 @@
+name: ChatPurifier
+main: ChatPurifier\Main
+version: 1.0.0
+api: [5.0.0]
+author: vinayakkirtan00
+description: Automatically filters and purifies bad words from player chat to keep your server clean and friendly.
