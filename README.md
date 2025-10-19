@@ -1,5 +1,7 @@
 # 💬 ChatPurifier
 
+[![](https://poggit.pmmp.io/shield.state/ChatPurifier)](https://poggit.pmmp.io/p/ChatPurifier)
+
 **ChatPurifier** is a lightweight and modern PocketMine-MP plugin that automatically filters offensive or unwanted words from the chat — keeping your Minecraft server friendly, clean, and fun for everyone.
 
 ---
